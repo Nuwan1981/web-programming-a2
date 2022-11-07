@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Profile: Nuwan Dassanayake</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #dfdfec;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: #1d1d30;
+  padding: 15px;
+  text-align: center;
+  color: white;
+}
+
+section {
+  float: right;
+  background: #fff;
+  padding: 20px;
+}
+
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #fff;
+}
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+    }
+}
+</style>
+</head>
+<body>
+</head>
+
+<body>
+
+<header>
+  <h1>Nuwan Dassanayake</h1>
+  <p style="font-size: 100%;">Accounting & Finance Specialist</p>
+</header>
+
+ <nav style="background-color:#9f9fc6;">
+  <a href="#About Me">About Me</a>&nbsp;&nbsp;&nbsp;<a href="#Education">Education</a>&nbsp;&nbsp;&nbsp;<a href="#Experience">Experience</a>&nbsp;&nbsp;&nbsp;<a href="#Awards & Recognition">Awards & Recognition</a>&nbsp;&nbsp;&nbsp;<a href="#Skills & Interests">Skills & Interests</a>&nbsp;&nbsp;&nbsp;<a href="#Contact Info">Contact Info</a>
+ </nav>
+
+<audio controls autoplay loop>
+  <source src="aud\japanese-bamboo-bansuri-corporate-99138.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+  <section>
+<img src ="img\profile pic.jpg" alt="Profile Picture" width="288" height="464">
+
+  </section>
+
+<p style="font-family:verdana; font-size:90%;">Konnichiwa. I am a post-graduate student living in Kyoto-Japan following my Masters' course in Information Technology.</p>
+
+<p style="font-family:verdana; font-size:90%;"><i>I am coming from the beautiful country called Sri Lanka also known as "The wonder of Asia" <a href ="https://www.dreamstime.com/photos-images/sri-lanka.html" target="_blank">Click for the image gallery</a> <br/>
+Make Sri Lanka your next travel destination (Promo Video)</i> </p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fn1wNxho5fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<hr color="#0a0a10", size="5">
+
+ <article style="background-color:#ffffff; padding:20px; font-family:arial;">
+
+    <div id="About Me">
+     <h4>About Me</h4>
+	 <p style="font-family:verdana; font-size: 80%;">An experienced Finance Manager with organization skills and a devotion to customer service. Specialized in Accounting & Finance sector having 11+ years of experience in Micro Finance, self-employments, helping to develop business, Documentation, Office administration & Customer service.</p>
+  	</div>
+
+<hr color="#0a0a10", size="5">
+
+<div id="Education">
+  <style>
+table, th, td {
+  border: 1px solid;
+}
+  </style>
+    <h4>Education</h4>
+    <table style="font-family:verdana; font-size:80%; text-align: center">
+   <tr>
+    <th scope=“col" width="10" bgcolor="#8080b3"></th>
+    <th scope=“col">Year</th>
+    <th scope=“col">Discipline</th>
+    <th scope=“col">Institute</th>
+   </tr>
+    <tr>
+     <td bgcolor="#56568f"> </td>
+     <td>2022<i>(Following)</i></td>
+     <td>Msc. in Information Technology</td>
+     <td>The Kyoto University of Graduate Studies for Informatics, Japan</td>
+     <td><a href ="https://www.kcg.edu/"><abbr title="https://www.kcg.edu/"><img src ="img\kcg1.jpg" width="135" height="45.45"></a></td>
+    </tr>
+  <tr>
+   <td bgcolor="#393960"> </td>
+   <td>2011</td>
+   <td>Bachelors Degree in Business Management</td>
+   <td>University of Kelaniya-Sri Lanka</td>
+   <th><a href ="https://www.kln.ac.lk/"><abbr title="https://www.kln.ac.lk/"><img src ="img\Kelaniya.png" width="110" height="110"></th>
+  </tr>
+     <tr>
+      <td bgcolor ="#151523"> </td>
+      <td>2006</td>
+      <td>Foundation-Chartered Accountants</td>
+      <td>The Institute of Chartered Accountants of Sri Lanka</td>
+      <th><a href ="https://www.casrilanka.com/casl/"><abbr title="https://www.casrilanka.com/casl/"><img src ="img\ca.jpg" width="150" height="80"></abbr></a></th>
+     </tr>  
+  </table>
+  </div>
+  
+<hr color="#0a0a10", size="5">
+
+<div id="Experience";>
+
+  <style>
+table, th, td {
+  border: 1px solid;
+}
+  </style>
+        <h4>Experience</h4>
+        <table style="font-family:verdana; font-size:80%; text-align: center">
+   <tr>
+    <th scope=“col" width="10" bgcolor="#8080b3"></th>
+    <th scope=“col">Period</th>
+    <th scope=“col">Designation</th>
+    <th scope=“col">Employer</th>
+   </tr>
+     <tr>
+      <td bgcolor="#56568f"> </td>
+      <td>2003(Feb)-2004(Feb)</td>
+      <td>Bank Cashier</td>
+      <td>Peoples Bank of Sri Lanka</td>
+      <td><a href ="https://www.peoplesbank.lk/"><abbr title="https://www.peoplesbank.lk/"><img src ="img\Peoples-Bank.jpg" width="135" height="90"></abbr></a></td>
+     </tr>
+        <tr>
+         <td bgcolor="#393960"> </td>
+         <td>2011(Aug)-2014(Dec)</td>
+         <td>Assistant Finance Manager</td>
+         <td rowspan="3">Crystal Grameen (PVT) LTD</td>
+         <td rowspan="3"><i>No image available</i></td>
+       </tr>
+   <tr>
+    <td bgcolor ="#151523"> </td>
+    <td>2015(Jan)-2022(March)</td>
+    <td>Finance Manager</td>
+   </tr>  
+	</table>
+      </div>
+
+<hr color="#0a0a10", size="5">
+
+<div id="Awards & Recognition";>
+
+<style>
+table, th, td {
+  border: 1px solid;
+}
+  </style>
+	  <h4>Awards & Recognition</h4>
+   		<ul>
+    		  <li>Award of colours INSIGNIA</li>
+    		  <li>SLUSA AWARDS</li>
+ 		 </ul>
+</div>
+
+
+
+<hr color="#0a0a10", size="5">
+
+
+<div id="Skills & Interests">
+  <style>
+table, th, td {
+  border: 1px solid;
+}
+  </style>
+	  <h4>Skills & Interests</h4>
+	  <table style="font-family:verdana; font-size:80%; text-align: center;">
+	  <tr>
+		<th scope=“col" width="10" bgcolor="#8080b3"></th>
+        	<th scope=“col">Skills</th>
+		<th scope=“col">Interests</th>
+	  </tr>
+      
+      	<tr>
+         <td bgcolor="#56568f"> </td>
+         <td>Management</td>
+         <td>Travel & Culture</td>
+        </tr>
+
+      	<tr>
+         <td bgcolor="#393960"> </td>
+         <td>Leaderhip</td>
+         <td>Art & Music</td>
+        </tr>
+        
+      	<tr>
+         <td bgcolor ="#151523"> </td>
+         <td>Teamwork</td>
+         <td rowspan="2">Nature & Wildlife</td>
+        </tr>
+ 
+       	<tr>
+         <td bgcolor ="#0a0a10"> </td>
+         <td>Analytics</td>
+        </tr>
+               
+     </table>
+	</div>
+
+
+<hr color="#0a0a10", size="5">
+
+
+		<div id="Contact Info">
+         <h4>Contact Info</h4> 
+   <ul style="font-family:verdana; font-size: 80%;">
+    <li> Email : <a href="mailto:nuwanrdassanayake@gmail.com"> nuwanrdassanayake@gmail.com </a> </li>
+    <li> Mobile Number : +81-804494113 (Available in Line & Whatsapp) </li>
+    <li> Address : KYOTO-SHI, KAMIGYO-KU, KARASUMA-CHO, SENBON-DORI, ICHIJO-DORI, 363, JUNESU-ICHIJO, 211, Japan </li>
+  </ul>
+  
+  		</div>
+        
+<p>Google maps Location<p>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.190891837268!2d135.73948031524094!3d35.02695408035193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf50d0dc6faf5e744!2zMzXCsDAxJzM3LjAiTiAxMzXCsDQ0JzMwLjAiRQ!5e0!3m2!1sen!2sjp!4v1667759639022!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+	<div style="background-color:#393960; font-family:verdana; font-size:80%; padding: 15px; background-image: url('img/header image.jpg/');">
+		<p><b> Music Credits: </b><br/>
+		<i>Japanese Bamboo Bansuri Corporate</i> <br/>
+		<i>Music promoted by:https://pixabay.com/</i>
+	</div>
+  </article>
+ 
+</body>
+</html>
